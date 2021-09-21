@@ -1,5 +1,5 @@
 function sair(){
   setTimeout(()=>{
-        window.location.href = 'https://cdpn.io/Giugiu1/debug/rNwdJxB/yYMyLaxJapYk'
+        window.location.href = 'https://giusande.github.io/Giufilmes/ '
     }, 3000)
 }
